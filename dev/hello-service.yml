@@ -6,4 +6,4 @@ spring:
     name: hello-service
     
 joybo: 
-  name: "重庆"
+  name: "江小白"
